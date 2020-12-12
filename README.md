@@ -6,3 +6,5 @@ https://lethain.com/introduction-to-architecting-systems-for-scale/
 https://refactoring.guru/design-patterns
 
 https://rajendrataradale.wordpress.com/2018/08/04/net-design-patterns-with-realworld-examples/
+
+https://angular-academy.com/angular-architecture-best-practices/
