@@ -14,3 +14,5 @@ https://github.com/RajendraTaradale/system-design
 https://medium.com/@tomastrajan/how-to-build-epic-angular-app-with-clean-architecture-91640ed1656
 
 https://devhints.io/react
+
+https://javascript.info/promise-chaining
