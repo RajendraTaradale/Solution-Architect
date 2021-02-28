@@ -16,3 +16,5 @@ https://medium.com/@tomastrajan/how-to-build-epic-angular-app-with-clean-archite
 https://devhints.io/react
 
 https://javascript.info/promise-chaining
+
+https://tkssharma.com/microservices-design-patterns/
