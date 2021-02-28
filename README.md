@@ -18,3 +18,5 @@ https://devhints.io/react
 https://javascript.info/promise-chaining
 
 https://tkssharma.com/microservices-design-patterns/
+
+https://flaviocopes.com/tags/js/
