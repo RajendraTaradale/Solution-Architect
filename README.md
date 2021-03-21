@@ -22,3 +22,5 @@ https://tkssharma.com/microservices-design-patterns/
 https://flaviocopes.com/tags/js/
 
 https://youtube.com/playlist?list=PLq3uEqRnr_2EDsuxPboP9_WtVRR_TaMrF
+
+https://dzone.com/articles/design-patterns-for-microservices
