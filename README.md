@@ -24,3 +24,5 @@ This repository will contains all best practices and standard implementation gui
 :green_book: https://youtube.com/playlist?list=PLq3uEqRnr_2EDsuxPboP9_WtVRR_TaMrF
 
 :green_book: https://dzone.com/articles/design-patterns-for-microservices
+
+:green_book: https://www.w3resource.com/csharp-exercises
