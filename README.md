@@ -26,3 +26,5 @@ This repository will contains all best practices and standard implementation gui
 :green_book: https://dzone.com/articles/design-patterns-for-microservices
 
 :green_book: https://www.w3resource.com/csharp-exercises
+
+:green_book: https://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
