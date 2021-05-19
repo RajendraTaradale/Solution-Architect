@@ -1,5 +1,9 @@
-# Solution-Architect
+# :loudspeaker: Solution-Architect :loudspeaker:
 This repository will contains all best practices and standard implementation guidelines for System Design 
+
+:orange_book: What is Mocroservices ?
+
+:dart: Small :dart: Focused on One task :dart: Aligned with Bounded Context :dart: Autonomous :dart: Independently Deployable :dart: Loosely Coupled
 
 :green_book: https://lethain.com/introduction-to-architecting-systems-for-scale/
 
