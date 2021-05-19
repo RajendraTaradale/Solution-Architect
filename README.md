@@ -1,7 +1,7 @@
 # :loudspeaker: Solution-Architect :loudspeaker:
 This repository will contains all best practices and standard implementation guidelines for System Design 
 
-:orange_book: What is Mocroservices ?
+:orange_book: What is Microservices ?
 
 :dart: Small :dart: Focused on One task :dart: Aligned with Bounded Context :dart: Autonomous :dart: Independently Deployable :dart: Loosely Coupled
 
