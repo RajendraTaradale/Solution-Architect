@@ -5,6 +5,8 @@ This repository will contains all best practices and standard implementation gui
 
 :dart: Small :dart: Focused on One task :dart: Aligned with Bounded Context :dart: Autonomous :dart: Independently Deployable :dart: Loosely Coupled
 
+:green_book: https://github.com/RajendraTaradale/system-design - System Design Architecture Diagram (Amazon/ Facebook / Google / Uber / twitter)
+
 :green_book: https://lethain.com/introduction-to-architecting-systems-for-scale/
 
 :green_book: https://refactoring.guru/design-patterns
@@ -12,8 +14,6 @@ This repository will contains all best practices and standard implementation gui
 :green_book: https://rajendrataradale.wordpress.com/2018/08/04/net-design-patterns-with-realworld-examples/
 
 :green_book: https://angular-academy.com/angular-architecture-best-practices/
-
-:green_book: https://github.com/RajendraTaradale/system-design
 
 :green_book: https://medium.com/@tomastrajan/how-to-build-epic-angular-app-with-clean-architecture-91640ed1656
 
