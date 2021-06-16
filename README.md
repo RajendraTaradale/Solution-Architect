@@ -6,6 +6,7 @@ This repository will contains all best practices and standard implementation gui
 :dart: Small :dart: Focused on One task :dart: Aligned with Bounded Context :dart: Autonomous :dart: Independently Deployable :dart: Loosely Coupled
 
 :green_book: https://github.com/RajendraTaradale/system-design - System Design Architecture Diagram (Amazon/ Facebook / Google / Uber / twitter)
+ 1. https://github.com/RajendraTaradale/system-design-primer
 
 :green_book: https://lethain.com/introduction-to-architecting-systems-for-scale/
 
