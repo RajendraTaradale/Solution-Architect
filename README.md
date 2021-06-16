@@ -9,6 +9,7 @@ This repository will contains all best practices and standard implementation gui
  1. https://github.com/RajendraTaradale/system-design-primer
  2. https://gist.github.com/RajendraTaradale/447a8fd5c78a44ac8b49542fcce05a54
  3. https://github.com/RajendraTaradale/awesome-system-design
+ 4. https://github.com/RajendraTaradale/awesome-software-architecture
 
 :green_book: https://lethain.com/introduction-to-architecting-systems-for-scale/
 
