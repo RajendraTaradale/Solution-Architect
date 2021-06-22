@@ -197,6 +197,33 @@ const honda = autoManufacturer('car', 'honda');
 honda.revEngine();
 
 /*-------------------------------------------------------------*/
+
+typeof NaN // "number" 
+typeof null // "object"
+typeof undefined // "undefined"
+typeof function foo() {} // "function"
+56=='56' // true
+78==='78' //  false
+
 /*-------------------------------------------------------------*/
+// Map vs filter
+const numbers =[6 , 8 , 3];
+const doubled =numbers.map(function(number){
+ return number * 2;
+});
+console.log(doubled); // output [12 , 16 , 6]
 
+//.filter() loops through data, 
+//and filters out data that doesn't match the criteria that we set
 
+const numbers = [1, 2, 3, 4];
+const evens = numbers.filter(item => item % 2 === 0);
+console.log(evens); // [2, 4]
+
+//Type Coercion refers to the automatic or implicit conversion of values from one type to another.
+
+var val = '10' + 10;
+console.log(val); //1010
+console.log(1 + true) // 2
+
+/*-------------------------------------------------------------*/
