@@ -3,9 +3,11 @@ This repository will contains all best practices and standard implementation gui
 
 :orange_book: What is Microservices ?
 
-:dart: Small :dart: Focused on One task :dart: Aligned with Bounded Context :dart: Autonomous :dart: Independently Deployable :dart: Loosely Coupled
+💢 Small 💢 Focused on One task 💢 Aligned with Bounded Context 💢 Autonomous 💢 Independently Deployable 💢 Loosely Coupled
 
-:green_book: https://github.com/RajendraTaradale/system-design - System Design Architecture Diagram (Amazon/ Facebook / Google / Uber / twitter)
+▶️ Microservice : https://github.com/RajendraTaradale/Microservices-Architecture
+
+:green_book: https://github.com/RajendraTaradale/system-design - System Design Architecture (Amazon|Facebook|Google|Uber|twitter)
  1. https://github.com/RajendraTaradale/system-design-primer
  2. https://gist.github.com/RajendraTaradale/447a8fd5c78a44ac8b49542fcce05a54
  3. https://github.com/RajendraTaradale/awesome-system-design
