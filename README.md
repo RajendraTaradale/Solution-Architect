@@ -7,6 +7,8 @@ This repository will contains all best practices and standard implementation gui
 
 ▶️ Microservice : https://github.com/RajendraTaradale/Microservices-Architecture
 
+📚 https://dcsa.org/wp-content/uploads/2020/10/DCSA-API-Design-Principles-1.0.pdf  (Guidelines on how APIs should be designed)
+
 :green_book: https://github.com/RajendraTaradale/system-design - System Design Architecture (Amazon|Facebook|Google|Uber|twitter)
  1. https://github.com/RajendraTaradale/system-design-primer
  2. https://gist.github.com/RajendraTaradale/447a8fd5c78a44ac8b49542fcce05a54
