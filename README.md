@@ -9,6 +9,8 @@ This repository will contains all best practices and standard implementation gui
 
 📚 https://dcsa.org/wp-content/uploads/2020/10/DCSA-API-Design-Principles-1.0.pdf  (Guidelines on how APIs should be designed)
 
+▶️ https://github.com/msusdev/microsoft_identity_platform_dev - all about MSAL/ Authentication and Authorization
+
 :green_book: https://github.com/RajendraTaradale/system-design - System Design Architecture (Amazon|Facebook|Google|Uber|twitter)
  1. https://github.com/RajendraTaradale/system-design-primer
  2. https://gist.github.com/RajendraTaradale/447a8fd5c78a44ac8b49542fcce05a54
