@@ -47,6 +47,8 @@ This repository will contains all best practices and standard implementation gui
 
 :green_book: https://github.com/RajendraTaradale/wtfjs
 
+:green_book: https://levelup.gitconnected.com/system-design-interview-survival-guide-2023-preparation-strategies-and-practical-tips-ba9314e6b9e3
+
 ![Screenshot](https://github.com/RajendraTaradale/Solution-Architect/blob/main/Microservice%20-%20Rajendra%20Taradale.PNG)
 
 :green_book: https://github.com/shabbirdwd53/event-driven-microservices/tree/saga-orchestration event-driven-microservices
